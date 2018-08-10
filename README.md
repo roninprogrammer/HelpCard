@@ -17,7 +17,7 @@
 
 ORDERS endpoint (returns new random data for each call) 
 
-<b>GET</b> http://staging-api.dahmakan.com/test/orders
+<b>GET</b> http://staging-api.xxx.com/test/orders
 
 <b>200 OK</b> Response Body: 
 ```
