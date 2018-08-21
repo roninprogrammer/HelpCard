@@ -1,8 +1,6 @@
 # HelpCard
 
-<b>Context/Feature</b>: Customers often ask the same questions to customer service agent, which can be easily answered without direct contacting. In order to make the customer service better and more to streamline operations, we'll introduce the Help section. The main part of the help section will be the so-called info cards. Every card contains information that is relevant for the user. For the sake of this task we implement cards which each represent an order. Each card is tappable and a tap would lead to a different screen which uses the order_id to display more help information.
-
-
+<b>Senario</b>: Customers often ask the same questions to customer service agent, which can be easily answered without direct contacting. In order to make the customer service better and more to streamline operations, we'll introduce the Help section. The main part of the help section will be the so-called info cards. Every card contains information that is relevant for the user. For the sake of this task we implement cards which each represent an order. Each card is tappable and a tap would lead to a different screen which uses the order_id to display more help information.
 
 <b>Task:</b>
 1. Implement the view by creating a simple empty Android application. Try to be as accurate as possible with the UI implementation.
@@ -36,4 +34,7 @@ ORDERS endpoint (returns new random data for each call)
 ```
 <b><i>output</i></b>
 503 Service unavailable
+
+```
 Oh no! What happened? :( Make sure the App can handle this temporary error response gracefully.
+```
